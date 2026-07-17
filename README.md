@@ -1,4 +1,4 @@
-<img width="1802" height="1080" alt="IMG_20260717_233119" src="https://github.com/user-attachments/assets/e3ac39b1-162d-4563-88ca-9c29e6546c97" /># Lehra_App-Anish_Savkar
+# Lehra_App-Anish_Savkar
 Lehra_App-Anish_Savkar is a desktop Lehra app featuring high-quality endless playback of multiple Taals across a wide BPM range, along with a live beat indicator, light and dark themes, and intuitive playback controls. Built for Indian classical music enthusiasts to practice and perform with professional Tabla accompaniment-offline and free of cost.
 Built with C++, Qt 6, and QML, Lehra_App-Anish_Savkar delivers a smooth, responsive, and intuitive user experience while maintaining high-performance audio playback by Anish Savkar. Designed as a reliable offline companion for Indian classical musicians, it has been recommended and appreciated by numerous music professionals.
 
@@ -15,6 +15,7 @@ Built with C++, Qt 6, and QML, Lehra_App-Anish_Savkar delivers a smooth, respons
 * ⏯️ Play, Pause and Stop controls
 * 💻 Offline operation
 * 🪶 Lightweight Windows application
+* Adaptive Beat indicators that change with the Taal
 
 ---
 
@@ -83,9 +84,9 @@ Built with C++, Qt 6, and QML, Lehra_App-Anish_Savkar delivers a smooth, respons
 
 ## Feedback/Support
 
-If you discover a bug or have a suggestion, feel free to contact-
-lehraapp.anish.support@gmail.com
-Responses may take 2-3 business days :)
+If you discover a bug or have a suggestion, feel free to contact- <br>
+lehraapp.anish.support@gmail.com <br>
+Responses may take 2-3 business days :) <br>
 
 ---
 
