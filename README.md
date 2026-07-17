@@ -1,4 +1,4 @@
-# Lehra_App-Anish_Savkar
+<img width="1802" height="1080" alt="IMG_20260717_233119" src="https://github.com/user-attachments/assets/e3ac39b1-162d-4563-88ca-9c29e6546c97" /># Lehra_App-Anish_Savkar
 Lehra_App-Anish_Savkar is a desktop Lehra app featuring high-quality endless playback of multiple Taals across a wide BPM range, along with a live beat indicator, light and dark themes, and intuitive playback controls. Built for Indian classical music enthusiasts to practice and perform with professional Tabla accompaniment-offline and free of cost.
 Built with C++, Qt 6, and QML, Lehra_App-Anish_Savkar delivers a smooth, responsive, and intuitive user experience while maintaining high-performance audio playback by Anish Savkar. Designed as a reliable offline companion for Indian classical musicians, it has been recommended and appreciated by numerous music professionals.
 
@@ -37,7 +37,28 @@ Built with C++, Qt 6, and QML, Lehra_App-Anish_Savkar delivers a smooth, respons
 
 
 ## Screenshots
+<img width="1736" height="1076" alt="IMG_20260717_232810" src="https://github.com/user-attachments/assets/a38dcf06-43ab-4b82-a274-8f2f203291b5" />
 
+
+<img width="1766" height="1080" alt="IMG_20260717_232842" src="https://github.com/user-attachments/assets/47338df9-9058-4880-8300-bb0b13292280" />
+
+
+<img width="1770" height="1080" alt="IMG_20260717_233112" src="https://github.com/user-attachments/assets/22e1f1f9-4a92-44d7-a6bd-2bce483639f5" />
+
+
+<img width="1802" height="1080" alt="IMG_20260717_233119" src="https://github.com/user-attachments/assets/fd3e0766-3772-46c5-821b-68eef351c84d" />
+
+
+<img width="1770" height="1080" alt="IMG_20260717_233127" src="https://github.com/user-attachments/assets/5e66be8d-a1f4-4dcb-9c63-4dfbef0a5509" />
+
+
+<img width="1790" height="1080" alt="IMG_20260717_233136" src="https://github.com/user-attachments/assets/d4be2ee9-3deb-4bcd-8286-0b60da6c164f" />
+
+
+<img width="1776" height="1080" alt="IMG_20260718_001639" src="https://github.com/user-attachments/assets/efc88df8-f2b7-45c5-be27-ba8d49d2ae37" />
+
+
+<img width="1734" height="1031" alt="Screenshot_2026-07-18-00-19-15-76_7ecc343528d84aae1423bfb8eca3bd44" src="https://github.com/user-attachments/assets/4e445b0c-517c-4021-bf26-9396774144d8" />
 
 ---
 
